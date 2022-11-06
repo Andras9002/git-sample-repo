@@ -2,3 +2,4 @@ git status
 git init
 git log
 git add
+git commit -m "" -> commit file with comments to the local repository
