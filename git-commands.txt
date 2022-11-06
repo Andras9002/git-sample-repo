@@ -1,5 +1,7 @@
-git status
-git init
+git status -> prints the status of the Git repository
+git init -> initalizes the git repository
+git config --global user.name "Andras"
+git config --global user.email "your@email.com"
 git log
 git add
 git commit -m "" -> commit file with comments to the local repository
